@@ -1,10 +1,10 @@
-##### AUTOMATED CIRCULAR PARKING TOWER
+# AUTOMATED CIRCULAR PARKING TOWER
 
-## 📖 Project Overview
+##  Project Overview
 This repository showcases the 3D mechanical design and control system simulation for an **Automated Circular Parking Tower**. The system is designed to optimize urban parking space by utilizing a vertical cylindrical structure with automated lifting and rotating mechanisms.
 
 A full demonstration of the system's operation can be viewed here:
-🎥 **[Watch the demo on YouTube: Parking car town cirle systems](https://youtu.be/zNejd4-UcOk?si=oN78pL1fmu8lp_hu)**
+ **[Watch the demo on YouTube: Parking car town cirle systems](https://youtu.be/zNejd4-UcOk?si=oN78pL1fmu8lp_hu)**
 
 ## ⚙️ Control Logic & Communication
 The core logic of this project integrates hardware identification, precise motor control, and seamless industrial communication between PC and PLC.
@@ -17,7 +17,7 @@ The core logic of this project integrates hardware identification, precise motor
 * **Rotary Platform:** A rotating base that aligns the elevator with the target parking slot based on calculated step data.
 * **Cylindrical Framework:** The main structural support designed for stability and space efficiency.
 
-## 📷 Media & Renderings
+##  Media & Renderings
 <img width="1769" height="1433" alt="image" src="https://github.com/user-attachments/assets/cc80d37e-a5e2-4727-877b-884680e946c4" />
 
 ## 🛠️ Tools & Technologies Used
