@@ -1,4 +1,4 @@
-<img width="1769" height="1433" alt="image" src="https://github.com/user-attachments/assets/fc2d09fe-ae68-4fc2-92f0-0d2f2b7b3b60" /># Automated Circular Parking Tower 
+Automated Circular Parking Tower 
 
 ## 📖 Project Overview
 This repository showcases the 3D mechanical design and control system simulation for an **Automated Circular Parking Tower**. The system is designed to optimize urban parking space by utilizing a vertical cylindrical structure with automated lifting and rotating mechanisms.
